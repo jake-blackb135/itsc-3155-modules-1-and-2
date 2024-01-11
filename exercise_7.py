@@ -1,3 +1,5 @@
+#Creates an empty array and adds all even numbers the user inputs into the array until the user quits, then prints the array
+
 list = []
 inp = input("Enter a number or QUIT to quit: ")
 if int(inp) % 2 == 0:

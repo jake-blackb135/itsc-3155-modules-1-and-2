@@ -1,3 +1,5 @@
+#Takes a user inputted string and prints each letter in the string 3 times
+
 str = input("Enter a string\n")
 list = []
 for x in range(len(str)):

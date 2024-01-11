@@ -1,3 +1,5 @@
+#Takes 5 seperate user entered words and combines them into a sentence
+
 str1 = input("Enter a word: ")
 str2 = input("Enter a word: ")
 str3 = input("Enter a word: ")
